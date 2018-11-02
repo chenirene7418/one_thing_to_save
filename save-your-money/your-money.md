@@ -2,7 +2,7 @@
 # You only have the time to dig out one type of item!
 # Which will you choose?
 
-[Loads of Benjamin Franklin](../money.md)
+[Loads of Benjamin Franklin](money.md)
 
 [All of your stocks and bonds](../bonds.md)
 
