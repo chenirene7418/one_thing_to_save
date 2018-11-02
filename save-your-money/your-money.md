@@ -4,5 +4,5 @@
 
 [Loads of Benjamin Franklin](money.md)
 
-[All of your stocks and bonds](../bonds.md)
+[All of your stocks and bonds](bonds.md)
 
