@@ -2,7 +2,7 @@
 ## Home
 
 There is a fire in your house and you have three options.  
-![Credit: Paige Auustin](fire.jpg)
+![Credit: Paige Auustin](images/fire.jpg)
 
 1. ### [Save your family](save-your-family/family.md)
 2. ### [Save your money](save-your-money/your-money.md)
