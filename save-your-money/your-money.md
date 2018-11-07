@@ -1,5 +1,6 @@
 # Oh No! Time is running out! You had abonden your family and went for your money. 
-# You only have the time to dig out one type of item!
+# You only have the time to dig out one type of item!  
+![money](images/money.jpg)
 # Which will you choose?
 
 [Loads of Benjamin Franklin](money.md)
