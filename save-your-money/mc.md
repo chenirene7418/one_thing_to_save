@@ -1,3 +1,6 @@
 ### You are a COLD-BLOODED human being
 
-Play again?? <pre>   </pre> Click ------>  [HERE](../home.md)
+![evil person](../images/evilperson.jpg)   
+Credit: Danielle UberAlles
+
+Play again?? <pre>   </pre> Click ------>  [HERE](../home.md/)
