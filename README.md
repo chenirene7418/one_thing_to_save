@@ -1,5 +1,7 @@
 # One Thing To Save
 
+The purpose of the project is to show humans decision are affect under extrem
+
 Click [here](home.md) to begin.   
 Click [here](https://docs.google.com/drawings/d/1rJcZ9JLPCuatWJS5J_1LHE3LZQIdTRU9JjCn0YiM12Q/edit?usp=sharing) to see the diagram of this project.
 

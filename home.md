@@ -1,8 +1,8 @@
 # One Thing To Save 
 ## Home
 
-There is a fire in your house! 
-![Credit: Paige Austin](images/fire.jpg)
+There is a fire in your house!  
+![fire](images/fire.jpg)  
 Credit: Paige Austin
 
 And you have three options.
